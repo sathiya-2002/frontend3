@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+p{
+    font-size: 24px;
+    color: aquamarine;
+}
+
+img {
+       border: 5px solid green;  
+}
+
+.link {
+    text-decoration: none;
+    color: green;
+}
+*
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
